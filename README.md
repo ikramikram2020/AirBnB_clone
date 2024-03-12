@@ -61,7 +61,7 @@ The project file structure is organized as follows:
 ## Contributors
 Boutheldja Kaouther - Github | LinkedIn (Team Member)
 
- kawthar ikram Khezour - Github | LinkedIn (Team Member)
+ kawthar ikram  - Github | LinkedIn (Team Member)
 
 ## License
 This project is licensed under the MIT License.
